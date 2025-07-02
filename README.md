@@ -16,3 +16,4 @@ Built as a small side project.
 ## Status
 
 - ✅ Basic UI done
+
